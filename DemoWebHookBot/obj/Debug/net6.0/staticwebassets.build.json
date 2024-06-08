@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fmQJWVXl5XtYMFJj/n54ekfZJdk1uDDfBPU6Lc+wB1A=",
+  "Source": "DemoWebHookBot",
+  "BasePath": "_content/DemoWebHookBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
