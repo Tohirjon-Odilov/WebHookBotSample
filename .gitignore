@@ -70,7 +70,7 @@ ScaffoldingReadMe.txt
 
 # StyleCop
 StyleCopReport.xml
-**/DemoWebHookBot/appsettings.json
+/.vscode/appsettings.json
 
 # Files built by Visual Studio
 *_i.c
@@ -364,3 +364,16 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
