@@ -70,7 +70,7 @@ ScaffoldingReadMe.txt
 
 # StyleCop
 StyleCopReport.xml
-**/appsettings.json
+**/DemoWebHookBot/appsettings.json
 
 # Files built by Visual Studio
 *_i.c
