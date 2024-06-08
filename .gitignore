@@ -3,6 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+
+
 # User-specific files
 *.rsuser
 *.suo
@@ -68,6 +70,7 @@ ScaffoldingReadMe.txt
 
 # StyleCop
 StyleCopReport.xml
+**/appsettings.json
 
 # Files built by Visual Studio
 *_i.c
